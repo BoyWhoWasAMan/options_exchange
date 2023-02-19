@@ -1,0 +1,9 @@
+[server]
+port = 8085
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = false
+
